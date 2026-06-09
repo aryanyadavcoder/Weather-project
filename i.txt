@@ -1,0 +1,32 @@
+Day of May [1]	Max Temp (°C)	Min Temp (°C)	Rain Chance / Avg Rainfall	Expected Conditions
+1-May	39°C	24°C	1	"Extremely clear, dry, and sunny"
+2-May	39°C	24°C	1	"Blazing sun, low humidity"
+3-May	39°C	24°C	2	"Strong, hot afternoon winds"
+4-May	40°C	24°C	2	Heat intensifying
+5-May	40°C	24°C	2	Very high UV index
+6-May	40°C	25°C	3	Warm morning onset
+7-May	40°C	25°C	3% (< 0.3 mm)	Dry heatwaves (Loo winds)
+8-May	41°C	25°C	3% (< 0.3 mm)	Blazing afternoon conditions
+9-May	41°C	25°C	3% (< 0.3 mm)	Clear blue skies
+10-May	41°C	25°C	4% (< 0.4 mm)	High thermal discomfort
+11-May	41°C	26°C	4% (< 0.4 mm)	"Warm, dry night"
+12-May	41°C	26°C	4% (< 0.4 mm)	"Clear, extreme daytime sun"
+13-May	41°C	26°C	4% (< 0.4 mm)	Heavy heatwave risks
+14-May	42°C	26°C	5% (< 0.5 mm)	Peak midday solar radiation
+15-May	42°C	26°C	5	Mid-month peak dry heat
+16-May	42°C	26°C	5	Blistering afternoon winds
+17-May	42°C	27°C	5	Sultry morning conditions
+18-May	42°C	27°C	5	High dehydration risk
+19-May	42°C	27°C	5	Sustained severe heat waves
+20-May	42°C	27°C	6	Slight dust haziness
+21-May	42°C	27°C	6	Overheated concrete surfaces
+22-May	42°C	27°C	6	Intense dry heatwave
+23-May	43°C	27°C	6	Maximum yearly heat window
+24-May	43°C	28°C	6	Extremely warm late nights
+25-May	43°C	28°C	7	Threat of late-afternoon dust storms
+26-May	42°C	28°C	7	High evening temperatures
+27-May	42°C	28°C	7	Passing scattered clouds
+28-May	41°C	28°C	8	Brief thunder squall possibility
+29-May	41°C	28°C	8	"Dusty atmosphere, low humidity"
+30-May	41°C	28°C	9	Heavy heat index spikes
+31-May	41°C	28°C	10	Pre-monsoon humidity begins
